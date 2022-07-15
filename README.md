@@ -4,7 +4,7 @@
 ### Requisitos
 * OpenVPN GUI **>=** 2.5.X
 * Sistema Operacional
-  >**Microsoft Windows 10 ou Windows 11:**
+  >**Microsoft Windows 10 ou Windows 11**
 
 ***
 ### Uso
